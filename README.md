@@ -3,7 +3,7 @@
 **Meu nome é Mateus**
 
 - Estudo na Etec de São Roque e estou fazendo curso com especialização técnica em informática
-- Meu Mestre, Sensei, Professor, Guia, Fonte de todo meu vasto connhecimento técnico é o professor **CHUPINO**
+- Tenho muito a agradecer por meu Mestre, Sensei, Professor, Guia, Fonte de todo meu vasto connhecimento técnico, professor **DAVINO**
 - Estou aprendendo sobre Ferramentas Front-End e Back-End desde 2023
 - Faço cursos das Linguagens de Programação **Python** e **JavaScript** e das Linguagens **HTML** e **CSS**
 - Esse espaço serve para compartilhar meus resultados nos cursos do [Alura](https://www.alura.com.br) e do [Curso em Vídeo](https://www.cursoemvideo.com/)
